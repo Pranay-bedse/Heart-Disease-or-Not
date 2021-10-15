@@ -1,2 +1,2 @@
 # ML-Project
-To Identify the Heart Disease or Not Classification Based Project 
+To Identify Paitent has Heart Disease or Not Classification Based Project 
