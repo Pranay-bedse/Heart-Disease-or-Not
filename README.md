@@ -1,2 +1,2 @@
-# ML-Project
-To Identify weather the Patient has Heart Disease or Not(Classification Based Project) 
+# Heart Dieseas or Not
+Classification Based Machine Learning Project 
