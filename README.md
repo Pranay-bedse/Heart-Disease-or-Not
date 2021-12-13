@@ -1,4 +1,4 @@
-# Heart Dieseas or Not
+# Heart Disease or Not
 * Classification Based Machine Learning Project. 
 * In this project, I have worked on Heart Dieses Dataset.
 * To identify whether the patient has Heart Dieses or not. 
